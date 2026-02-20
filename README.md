@@ -56,9 +56,15 @@ The goal of this project is to move beyond the “what” and uncover the **“w
 
 ## 6️⃣ Screenshots
 
+### Quick Bite Dashboard Screenshots
 
+<img src="images/crisis_analysis-%20(1).png" alt="Orders & Revenue Trend" width="300"/>
+<img src="images/crisis_analysis-%20(2).png" alt="Delivery & SLA Performance" width="300"/>
+<img src="images/crisis_analysis-%20(3).png" alt="Customer Churn Analysis" width="300"/>
+<img src="images/crisis_analysis-%20(4).png" alt="Sentiment & Reviews" width="300"/>
+<img src="images/crisis_analysis-%20(5).png" alt="Restaurant Performance" width="300"/>
+<img src="images/crisis_analysis-%20(6).png" alt="Recovery Recommendations" width="300"/>
 
----
 
 ## 7️⃣ Notes
 - The dashboard highlights **operational bottlenecks**, **customer churn trends**, and **restaurant performance gaps**  
